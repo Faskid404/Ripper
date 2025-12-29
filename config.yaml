@@ -1,0 +1,15 @@
+telegram:
+  bot_token: "8573419519:AAENWmJdf9gLX1GTxscwDKYLWyJaBAwD4HU"
+  chat_id: "8573419519"
+
+proxy:
+  enabled: true
+  file: "proxies.txt"
+
+stealth:
+  jitter_min: 1000
+  jitter_max: 5000
+  aes_key: "32_byte_super_secret_key_1234567890!!"
+
+loot:
+  base_dir: "loot"
